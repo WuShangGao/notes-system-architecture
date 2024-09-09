@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "44fb2443f641f76e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5288783bd833b75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f92ceeee4fa258c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "架构分类/云架构.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "531d12f08ab0b334",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "架构分类/云架构.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6b6418748ba4fe1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "架构分类/云架构.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "510cd48ee6ae996c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-绪论.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "111f7c21d85a6b6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-绪论.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4af07506fdc34861",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-绪论.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "418d183a362e3e67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12-信息系统架构设计理论与实践.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b85d04d7bd3827e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12-信息系统架构设计理论与实践.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c85fb07cbd7a550f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7124baf9d1adcc62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9db198fdc24f988",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "895ae2e22c425290",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1345f43005923e06",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 456.5
+  },
+  "right": {
+    "id": "ef8a9f42c9f8c93d",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa11b701f5d3b6cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71ea925e77e32ba7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "12-信息系统架构设计理论与实践.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "48c9a468b2f915c6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "12-信息系统架构设计理论与实践.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "675b3ca4cfc8f2cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f98756d6fbf6359d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "12-信息系统架构设计理论与实践.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 372.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b85d04d7bd3827e5",
+  "lastOpenFiles": [
+    "案例分析/以服务为中心的企业整合.md",
+    "案例分析/attachments/图12-14Ramp Coordination流程图.png",
+    "案例分析/attachments/图12-15Ramp Coordination系统架构.png",
+    "案例分析/Web 服务在 HL7 上的应用.md",
+    "架构分类/云架构.md",
+    "案例分析/attachments/图12-13HL7Web服务信息交换流程.png",
+    "12-信息系统架构设计理论与实践.md",
+    "案例分析/attachments/图12-12参考体系结构.png",
+    "案例分析/attachments/图12-11HL7 消息发展体系.png",
+    "案例分析/attachments",
+    "案例分析",
+    "01-绪论.md",
+    "架构分类/微服务架构.md",
+    "架构分类/attachments/图1-5微服务架构.png",
+    "架构分类/微核架构.md",
+    "架构分类/attachments/图1-4微核架构.png",
+    "attachments/Pasted image 20240907184448.png",
+    "attachments",
+    "架构分类/事件驱动架构.md",
+    "架构分类/attachments/图1-3事件驱动架构.png",
+    "架构分类/attachments/图1-2分层架构.png",
+    "架构分类/分层架构.md",
+    "架构分类/attachments",
+    "架构分类"
+  ]
+}
